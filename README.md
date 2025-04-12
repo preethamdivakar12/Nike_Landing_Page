@@ -1,6 +1,6 @@
 ## Nike Landing Page
 
-Explore much about frontend .
+Explored much about frontend .
 
 ![image](https://github.com/user-attachments/assets/54a7ac4c-f308-4e62-8e16-80bf75fefbb9)
 ![image](https://github.com/user-attachments/assets/f6ccb207-28e9-4ca1-b660-d9ea4056cd8d)
